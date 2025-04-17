@@ -1,0 +1,12 @@
+{
+  "name": "dekora-scraper",
+  "version": "1.0.0",
+  "description": "Scraper för Dekora produkter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
